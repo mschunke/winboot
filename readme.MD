@@ -46,3 +46,7 @@ If you want to help to improve this script, just fork and open a PR. All help is
 ## MIT License
 
 2024 by Murilo Schünke
+
+### Keywords
+
+windows,mac,linux,boot,bootable,usb,thumbdrive,drive,stick,create,make,iso,cd
